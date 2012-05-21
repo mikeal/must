@@ -1,0 +1,16 @@
+{
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
+  "name": "must",
+  "description": "A base promise-like object for domain specific behavior.",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
